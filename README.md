@@ -1,13 +1,12 @@
 # SEVEN ROAD - Releases
 
-## Beta 0.1.49
+## Beta 0.1.50
 
-- Client Windows V535, serveur GameLift V535, session `MMORPG-DemoSession-V535`.
-- Six quetes principales du Papi des plaines et du Mage noir, objets de quete et crypte de Fargeas.
-- Potion de soin de 50 PV a usage unique hors combat et recettes pour le futur artisanat.
-- Resistance elementaire : 2 % par point, 10 points maximum, correction des anciennes valeurs.
-- Abonnement visible dans Accueil, Vestiaire et Boutique, avec decompte des jours restants.
-- Synchronisation des PNJ et de l'armure Chevalier Noir, corrections de progression et de sauvegarde.
-- Animation d'attente du Mage noir et correction visuelle de la zone de Fargeas.
+- Client Windows V536, serveur GameLift V536, session `MMORPG-DemoSession-V536`.
+- Musique de combat reduite a 35 %, volume et coupure controles par les reglages audio.
+- Appliquer les reglages audio conserve les options graphiques non selectionnees.
+- Suppression des quetes de demonstration affichees a la connexion et suivi par personnage.
+- Corrections des animations de danse et de leur reprise apres un deplacement.
+- Les PNJ en patrouille s'arretent pendant les dialogues et regardent leur interlocuteur en reseau.
 
 Les fichiers du jeu complet, du patch, du manifeste et leurs SHA-256 sont disponibles dans les releases.
