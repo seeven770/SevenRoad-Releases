@@ -1,11 +1,11 @@
 # SEVEN ROAD - Releases
 
-## Beta 0.1.47
+## Beta 0.1.48
 
-- Client Windows V532, serveur GameLift V531, session `MMORPG-DemoSession-V531`.
-- Correction du placement sous la ville lors de la connexion et de la sauvegarde de position.
-- Journal de quetes deplacable et fleches des categories corrigees.
-- Noms des PNJ au survol et masques derriere les murs.
-- Bandeau Acheter des Sevex harmonise dans Apparences, Ornements et Abonnement.
+- Client Windows V533, serveur GameLift V532, session `MMORPG-DemoSession-V532`.
+- Chaque sanglier du combat gagne compte pour toutes les quetes actives concernees.
+- Progression maintenue aux combats suivants, sans blocage lie au respawn.
+- Comptage conserve avant le nettoyage de la scene de combat, sans doubles notifications.
+- Quatre quetes suivies maximum, empilees sous la mini-carte.
 
 Les fichiers du jeu complet, du patch, du manifeste et leurs SHA-256 sont disponibles dans les releases.
