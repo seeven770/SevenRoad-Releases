@@ -1,12 +1,14 @@
 # SEVEN ROAD - Releases
 
-## Beta 0.1.50
+## Beta 0.1.51
 
-- Client Windows V536, serveur GameLift V536, session `MMORPG-DemoSession-V536`.
-- Musique de combat reduite a 35 %, volume et coupure controles par les reglages audio.
-- Appliquer les reglages audio conserve les options graphiques non selectionnees.
-- Suppression des quetes de demonstration affichees a la connexion et suivi par personnage.
-- Corrections des animations de danse et de leur reprise apres un deplacement.
-- Les PNJ en patrouille s'arretent pendant les dialogues et regardent leur interlocuteur en reseau.
+- Client Windows V537, serveur GameLift V537, session `MMORPG-DemoSession-V537`.
+- Une seule position de retour apres combat et respawn au-dessus du sol, hors des obstacles.
+- Correction des maitrises negatives apres reinitialisation, y compris pour les personnages deja affectes.
+- Drops de quete a 50 % et objets de quete lies, non echangeables, non jetables et non supprimables.
+- Marche detendue du Chevalier d'Urantia et traces accessibles pres du Voleur des orcs.
+- La Fleur Azure et la quete de Maria donnent chacune 331 XP de base.
+- Solde Sevex dans Accueil, Vestiaire et Boutique ; bouton Deconnexion harmonise.
+- Annonces Discord orange au centre de l'ecran, avec rappels, sans bloquer les clics.
 
 Les fichiers du jeu complet, du patch, du manifeste et leurs SHA-256 sont disponibles dans les releases.
