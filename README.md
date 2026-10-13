@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Fusion Release 0.1.53
+
+- Client Windows V539 et serveur GameLift V539 ; session `MMORPG-DemoSession-V539`.
+- Prison : cellules partagees, peines en temps de connexion, moderation Discord et gardien anime.
+- Liberation individuelle, porte ouverte 15 secondes et appel du gardien.
+- Achat, acces et revente des maisons ; amenagements et terrain ajustes.
+- Montures sauvages en reseau, cascade et quetes mises a jour.
+- Installation complete, patch depuis v0.1.52, manifeste et SHA-256.
+
 ## Beta 0.1.52
 
 - Client Windows V538, serveur GameLift V538, session `MMORPG-DemoSession-V538`.
