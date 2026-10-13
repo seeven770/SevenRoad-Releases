@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## Fusion Release 0.1.54
+
+- Client Windows V540 et serveur GameLift V540 ; session `MMORPG-DemoSession-V540`.
+- Drago sauvages : locomotion, placement au sol, couleurs sobres et capture en reseau.
+- Interface de capture compacte ; monture capturee retiree du monde et remplacante ailleurs dans les Montagnes perdues.
+- Prison : eclairage de proximite, corrections du gardien et des interactions de cellule.
+- Maisons : interieur supplementaire, escaliers reduits et raccords des portes verifies.
+- Optimisations des zones, lumieres, textures et interactions, sans reduction imposee de resolution.
+- Installation complete, patch depuis v0.1.53, manifeste et SHA-256.
+
 ## Fusion Release 0.1.53
 
 - Client Windows V539 et serveur GameLift V539 ; session `MMORPG-DemoSession-V539`.
