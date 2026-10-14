@@ -1,5 +1,17 @@
 # SEVEN ROAD - Releases
 
+## V542 Fusion Release 0.1.55
+
+- Client Windows V542 et serveur AWS V542 ; session `MMORPG-DemoSession-V542`.
+- Banque partagee entre les personnages du compte, choix de quantite et transferts d'objets et d'or.
+- HDV : achat confirme, vente depuis l'inventaire et transactions securisees.
+- Orcs niveau 35 ; Ravageur, Traqueur et Chaman niveau 50, drops au village des chamans.
+- +1 PA sur les amulettes niveau 50, +1 PM sur les bottes ; deux anneaux identiques interdits.
+- Resistance investie a 1 % par point ; panoplies Ours et Sanglier reequilibrees.
+- Drops d'equipements beta a 35 % de base ; Fleur Azure a 20 %, sans achat.
+- Fernand BoZo, echarpe et pieces des coffres de banque corriges.
+- Installation complete, patch depuis v0.1.54, manifeste et SHA-256.
+
 ## Fusion Release 0.1.54
 
 - Client Windows V540 et serveur GameLift V540 ; session `MMORPG-DemoSession-V540`.
