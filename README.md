@@ -1,5 +1,18 @@
 # SEVEN ROAD - Releases
 
+## V543 Fusion Release 0.1.56
+
+- Client Windows V543 et serveur AWS V543 ; session `MMORPG-DemoSession-V543`.
+- Retour de combat : position et visibilite des participants restaurees sur tous les clients.
+- Retrait du masquage de decors defectueux ; cascade animee.
+- Message des anneaux retire a la connexion ; annonce Lycaon desactivee.
+- Duree des boosts corrigee ; drops d'equipements a 10 % de base.
+- Recompenses sur plusieurs lignes ; incarceration differee apres le combat.
+- Ajout en ami au clic droit ; proprietes et affichage des points de vie corriges.
+- HDV : actualisation ciblee des offres et notification des ventes dans le chat du vendeur.
+- Fuite des Drago plus longue et collisions avec les arbres affinees.
+- Installation complete, patch depuis v0.1.55, manifeste et SHA-256.
+
 ## V542 Fusion Release 0.1.55
 
 - Client Windows V542 et serveur AWS V542 ; session `MMORPG-DemoSession-V542`.
