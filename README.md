@@ -1,5 +1,17 @@
 # SEVEN ROAD - Releases
 
+## V544 Fusion Release 0.1.57
+
+- Client Windows V544 et serveur AWS V544 ; session `MMORPG-DemoSession-V544`.
+- Collisions geantes de LostCave corrigees ; static batching desactive.
+- Teleportation des Shamans securisee ; defaite hors donjon vers le teleporteur favori ou le spawn initial.
+- HDV uniquement sur les PNJ designes : equipements, ou consommables et ressources.
+- Vente des piles avec quantite et prix du lot ; transactions Firebase securisees.
+- Falaises raccordees au terrain et collisions corrigees.
+- Chemin de ville vers le pont, ancien trace efface, cascade retravaillee et animee.
+- Huit anciennes parcelles non achetables et panneaux masques.
+- Installation complete, patch depuis v0.1.56, manifeste et SHA-256.
+
 ## V543 Fusion Release 0.1.56
 
 - Client Windows V543 et serveur AWS V543 ; session `MMORPG-DemoSession-V543`.
