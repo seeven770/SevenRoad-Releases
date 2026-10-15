@@ -1,5 +1,17 @@
 # SEVEN ROAD - Releases
 
+## V545 Fusion Release 0.1.58 - Francfort
+
+- Nouvelle version stable ; l'ancienne release v0.1.57 et sa session V544 restent disponibles.
+- Client V545 pour la nouvelle flotte AWS eu-central-1 ; session `MMORPG-DemoSession-V545`.
+- Mise a jour du launcher vers V545 une fois la release publiee ; aucune interruption des sessions V544 deja ouvertes.
+- Inventaire isole par personnage, y compris apres suppression et recreation dans le meme emplacement.
+- Chargement des inventaires vides corrige ; deconnexion avec attente, erreur visible et nouvelle tentative.
+- Hauteur de nage adaptee a la pose du personnage et synchronisee en reseau.
+- Quete Grimoire interdit : activation des six gardiens et clic sur la pierre ou l'epee corriges.
+- Resultats de victoire : monstres vaincus et XP conserves apres la fermeture du combat.
+- ZIP complet, patch depuis v0.1.57, manifeste et SHA-256 ; installation dans un dossier distinct recommandee.
+
 ## V544 Fusion Release 0.1.57
 
 - Client Windows V544 et serveur AWS V544 ; session `MMORPG-DemoSession-V544`.
