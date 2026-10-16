@@ -1,5 +1,16 @@
 # SEVEN ROAD - Releases
 
+## V549 Fusion Release 0.1.61 - Francfort
+
+- Client Windows V549 et session `MMORPG-DemoSession-V549` ; mise a jour requise pour rejoindre la nouvelle flotte.
+- Capacite configuree a 20 joueurs cote Fusion et GameLift ; une seule instance, tenue en charge a verifier.
+- Duree des combats synchronisee aussi pour les joueurs qui rejoignent.
+- Armes retablies apres le donjon ; nettoyage tardif de l'ancien combat protege.
+- Herbe reduite en hauteur et en largeur a 30 % des dimensions d'origine ; relief et emplacements conserves, vent inchange.
+- Taux des panoplies niveau 50 inchanges et identiques entre les trois panoplies.
+- Anciennes flottes V547 et V548 supprimees ; controles Unity automatises, validation multijoueur en conditions reelles encore necessaire.
+- ZIP complet, patch depuis v0.1.60, manifeste et SHA-256.
+
 ## V547 Fusion Release 0.1.60 - Francfort
 
 - Client Windows V547 et session `MMORPG-DemoSession-V547` ; mise a jour requise pour rejoindre la nouvelle flotte AWS.
