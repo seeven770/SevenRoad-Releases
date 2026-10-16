@@ -1,5 +1,17 @@
 # SEVEN ROAD - Releases
 
+## V547 Fusion Release 0.1.60 - Francfort
+
+- Client Windows V547 et session `MMORPG-DemoSession-V547` ; mise a jour requise pour rejoindre la nouvelle flotte AWS.
+- Chat prive : onglets verticaux, messages cibles via `@pseudo` ou `/pseudo`, et acces depuis les menus des joueurs et amis.
+- Banque sans limite de 80 emplacements ; Tout transferer corrige et filtres du sac ajoutes.
+- Retour du combat du Grimoire interdit sur la plateforme.
+- Equipements a 5 % de base par objet ; capture des montures a 5 % fixes.
+- Herbe raccourcie et densite restauree ; terrain raccorde sous les escaliers des Shamans.
+- Nage autour de l'ile corrigee ; chute dans le vide vers le teleporteur d'Urantia.
+- Controles Unity automatises ; verification multijoueur en conditions reelles encore necessaire.
+- ZIP complet, patch depuis v0.1.59, manifeste et SHA-256.
+
 ## V546 Fusion Release 0.1.59 - Francfort
 
 - Client Windows V546 et session `MMORPG-DemoSession-V546` sur la nouvelle flotte AWS.
