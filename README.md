@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## V550 Fusion Release 0.1.62 - Irlande
+
+- Client Windows V550 et session `MMORPG-DemoSession-V550` en eu-west-1 ; mise a jour requise.
+- Serveur r5.large : 16 Gio de RAM et 2 vCPU, une seule instance et 20 places configurees ; tenue en charge a tester.
+- Nage dans le lac superieur d'Urantia, son deversoir et le palier de la cascade ; hauteur et contour conformes aux surfaces d'eau.
+- Herbe plus fournie : largeur d'origine, hauteur a 50 %, vent horizontal limite ; relief et zones peintes conserves.
+- Ancienne flotte V549 de Francfort supprimee ; controles Unity automatises, validation multijoueur en conditions reelles encore necessaire.
+- ZIP complet, patch depuis v0.1.61, manifeste et SHA-256.
+
 ## V549 Fusion Release 0.1.61 - Francfort
 
 - Client Windows V549 et session `MMORPG-DemoSession-V549` ; mise a jour requise pour rejoindre la nouvelle flotte.
