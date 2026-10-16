@@ -1,5 +1,17 @@
 # SEVEN ROAD - Releases
 
+## V546 Fusion Release 0.1.59 - Francfort
+
+- Client Windows V546 et session `MMORPG-DemoSession-V546` sur la nouvelle flotte AWS.
+- Ancienne flotte V545 supprimee ; mise a jour du client requise pour rejoindre V546.
+- Chrono de prison a gauche de la mini-carte ; decompte seulement a partir de l'arrivee en cellule, sans consommer le combat.
+- Banque et HDV : retour visuel immediat, transactions en attente securisees et reconciliation serveur.
+- Notification dans le chat du vendeur lors d'une vente de maison.
+- Grimoire interdit : lancement des six gardiens depuis la pierre et l'epee corrige.
+- Donjons : validation des mouvements et poussees ; retour de defaite directement a l'entree.
+- Controles automatises reussis ; verification multijoueur en conditions reelles encore necessaire.
+- ZIP complet, patch depuis v0.1.58, manifeste et SHA-256.
+
 ## V545 Fusion Release 0.1.58 - Francfort
 
 - Nouvelle version stable ; l'ancienne release v0.1.57 et sa session V544 restent disponibles.
