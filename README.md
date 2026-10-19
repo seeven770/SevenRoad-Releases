@@ -1,5 +1,16 @@
 # SEVEN ROAD - Releases
 
+## V552 Fusion Release 0.1.63 - Londres
+
+- Client Windows V552 et session `MMORPG-DemoSession-V552` en eu-west-2 ; mise a jour requise, ancienne flotte V551 supprimee.
+- Serveur r5.large, 16 Gio de RAM, 2 vCPU et 20 places configurees ; tenue en charge a verifier.
+- Coiffes et capes Ours/Sanglier equipees en 3D, capes animees, retrait propre et icones assorties.
+- Reglages > Jeu > Apparence : masquer le casque et la cape independamment, sans retirer les bonus.
+- Reglages > Commandes : modes de deplacement et raccourcis d'interfaces personnalisables.
+- Ajustements du deplacement, de la marche, du rendu d'Urantia, des maitrises en cases et des soins.
+- Controles Unity automatises ; validation multijoueur en conditions reelles encore necessaire.
+- ZIP complet, patch depuis v0.1.62, manifeste et SHA-256.
+
 ## V550 Fusion Release 0.1.62 - Irlande
 
 - Client Windows V550 et session `MMORPG-DemoSession-V550` en eu-west-1 ; mise a jour requise.
