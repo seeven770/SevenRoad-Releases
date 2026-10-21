@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## V554 Fusion Release 0.1.64 - Londres
+
+- Client Windows V554 et session `MMORPG-DemoSession-V554` en eu-west-2 ; mise a jour requise pour rejoindre la nouvelle flotte.
+- Ajustements des huit panoplies sur les personnages standards et variantes de boutique : capes, epaules, pantalons, mollets et bottes.
+- Les 24 equipements visuels sont relies aux objets d'inventaire et a leurs icones ; restauration de l'apparence de base au retrait.
+- Elf Skin : raccords du pantalon et pieds Traqueur reduits ; couches d'epaules d'origine masquees avec les capes.
+- Serveur r5.large, 16 Gio de RAM, 2 vCPU et 20 places configurees ; validation multijoueur et tenue en charge encore necessaires.
+- ZIP complet, patch depuis v0.1.63, manifeste et SHA-256.
+
 ## V552 Fusion Release 0.1.63 - Londres
 
 - Client Windows V552 et session `MMORPG-DemoSession-V552` en eu-west-2 ; mise a jour requise, ancienne flotte V551 supprimee.
