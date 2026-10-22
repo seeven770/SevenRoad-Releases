@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## V555 Fusion Release 0.1.65 - Londres
+
+- Client Windows V555 et session `MMORPG-DemoSession-V555` en eu-west-2 ; mise a jour requise, ancienne flotte V554 retiree pour liberer le quota.
+- Tenue du Beater : un exemplaire garanti pour un membre du premier groupe victorieux du boss ; ensuite 0,01 % par joueur eligible et par victoire.
+- Objet echangeable jusqu'a confirmation du double-clic, puis lie au compte et disponible dans le casier.
+- Costume partage entre jeu, casier et inventaire ; ajustement du tissu aux morphologies feminines, tete et coiffure natives conservees.
+- Controles locaux sur 12 modeles, 48 controles d'animation/attachement et tests backend recompenses, banque, HDV et abonnements reussis. Validation multijoueur et tenue en charge encore necessaires.
+- Serveur r5.large, 16 Gio de RAM, 2 vCPU et 20 places configurees ; premiere victoire de production preservee par les tests.
+- ZIP complet, patch depuis v0.1.64, manifeste et SHA-256.
+
 ## V554 Fusion Release 0.1.64 - Londres
 
 - Client Windows V554 et session `MMORPG-DemoSession-V554` en eu-west-2 ; mise a jour requise pour rejoindre la nouvelle flotte.
