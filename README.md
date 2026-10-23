@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## V556 Fusion Release 0.1.66 - Londres
+
+- Correctif serveur de la forte latence hors combat pendant les combats simultanes : suppression des recherches globales inutiles du joueur local sur le serveur dedie.
+- Test diagnostic a trois joueurs : ping median 72 ms sans combat, 76 ms avec deux combats et 72 ms apres ; charge plus elevee et nouvelle release a verifier en multijoueur.
+- Clic droit pendant la course retabli ; Roulade reste a trois cases avec Tir Lointain.
+- Seul Illfang est indeplacable ; icone reduite, uniquement dans le combat local, et etat integre aux effets actifs.
+- Chat General limite a 50 metres par le serveur, sans diffusion entre combats distincts. Autres canaux conserves.
+- Session `MMORPG-DemoSession-V556`, serveur r5.large, 16 Gio, deux vCPU, une instance et 20 places configurees.
+- Mise a jour dans le launcher habituel, comptes et personnages conserves. ZIP complet, patch depuis v0.1.65, manifeste et SHA-256.
+
 ## V555 Fusion Release 0.1.65 - Londres
 
 - Client Windows V555 et session `MMORPG-DemoSession-V555` en eu-west-2 ; mise a jour requise, ancienne flotte V554 retiree pour liberer le quota.
