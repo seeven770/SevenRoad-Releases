@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Correctif Sunraku 0.1.68 - Serveur V557 conserve
+
+- Animations hors combat retablies lors de l'equipement de la tenue Sunraku.
+- Raccordement des meshes a l'Animator a l'equipement et au retrait, avec conservation de l'optimisation d'origine.
+- Bug reproduit puis corrige avec le chargement reel du personnage, sans forcer les poses ; 12 personnages et 48 controles de pose verifies.
+- Apparence, short, prix et rarete inchanges. Session `MMORPG-DemoSession-V557` a Francfort conservee, sans redemarrage du serveur.
+- Mise a jour dans le launcher habituel ; patch depuis v0.1.67, ZIP complet, manifeste et SHA-256.
+- Verification multijoueur du correctif publie encore necessaire.
+
 ## V557 Fusion Release 0.1.67 - Francfort
 
 - Session `MMORPG-DemoSession-V557` en eu-central-1 ; ancienne fleet V556 supprimee.
