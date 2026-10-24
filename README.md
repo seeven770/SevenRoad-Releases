@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## V557 Fusion Release 0.1.67 - Francfort
+
+- Session `MMORPG-DemoSession-V557` en eu-central-1 ; ancienne fleet V556 supprimee.
+- Tenue Sunraku epique a 1 500 Sevex dans la boutique et le casier, avec la couleur et la morphologie du personnage.
+- Ajustements valides du short et bandage feminin ; reglages de drago conserves uniquement pour les tests.
+- Placement de combat sur le terrain accessible, centre compris ; correctifs de collision, retour de donjon, armes, nage et camera spectateur.
+- Position du personnage synchronisee entre ordinateurs et affichage du chargement des equipements.
+- Mise a jour via le launcher habituel ; comptes et personnages conserves. ZIP complet, patch depuis v0.1.66, manifeste et SHA-256.
+- Verification multijoueur de cette nouvelle release encore necessaire.
+
 ## V556 Fusion Release 0.1.66 - Londres
 
 - Correctif serveur de la forte latence hors combat pendant les combats simultanes : suppression des recherches globales inutiles du joueur local sur le serveur dedie.
