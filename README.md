@@ -1,5 +1,13 @@
 # SEVEN ROAD - Releases
 
+## Diagnostic donjon et collisions 0.1.69 - V558
+
+- Nouveau serveur de diagnostic a Francfort, accessible avec le launcher habituel.
+- Session `MMORPG-Diagnostic-Dungeon-V558-20261026` ; mise a jour client obligatoire.
+- Traces serveur des collisions invisibles et traces client/serveur du donjon, du retour au monde et de la visibilite des armes.
+- Version de test : les bugs intermittents restent a reproduire et analyser en multijoueur.
+- ZIP complet, patch depuis v0.1.68, manifeste et SHA-256 ; comptes et personnages existants conserves.
+
 ## Correctif Sunraku 0.1.68 - Serveur V557 conserve
 
 - Animations hors combat retablies lors de l'equipement de la tenue Sunraku.
