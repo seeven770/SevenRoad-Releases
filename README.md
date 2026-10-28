@@ -1,5 +1,17 @@
 # SEVEN ROAD - Releases
 
+## Carte du monde et potions 0.1.71 - V560
+
+- Session `MMORPG-DemoSession-V560` sur le serveur Sevenroad a Francfort ; client a jour requis.
+- Grande carte M fantasy validee integree au jeu : zoom, details locaux, teleporteurs, bateaux, services, filtres et noms au survol.
+- Collider du rocher signale aux Golems ajuste au maillage reel, cote serveur et client.
+- Quantite libre de petites potions et prix total automatique a 30 or par potion ; service d'achat publie.
+- Animation de boisson avec fiole, son, decompte et message des PV reellement recuperes.
+- House Shuffle : Tavern Jig ; Knee Flex : Monster defeated!.
+- Launcher habituel mis a jour automatiquement vers 1.3.6 : installation complete en deux ZIP verifies, patch depuis v0.1.70 conserve, manifeste et SHA-256. Aucune reduction de qualite. Relancer le launcher s'il etait deja ouvert.
+- Comptes et personnages conserves.
+- Tests locaux, transactions, installation complete en deux parties et patch reel depuis v0.1.70 valides ; verification multijoueur de cette version encore necessaire.
+
 ## Mini-carte fantasy 0.1.70 - V559
 
 - Nouveau serveur Sevenroad a Francfort ; session `MMORPG-DemoSession-V559`.
