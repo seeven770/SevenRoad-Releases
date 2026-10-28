@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Mini-carte fantasy 0.1.70 - V559
+
+- Nouveau serveur Sevenroad a Francfort ; session `MMORPG-DemoSession-V559`.
+- Mini-carte sur textures fantasy validees, sans camera de rendu dediee ; position, orientation et reperes conserves.
+- Reglages normaux de deplacement retablis ; essais locaux temporaires exclus.
+- Configuration privee de la prison et des recompenses du donjon conservee cote serveur uniquement.
+- Mise a jour via le launcher habituel ; ZIP complet, patch depuis v0.1.69, manifeste et SHA-256.
+- Comptes et personnages conserves. Verification multijoueur de cette version encore necessaire.
+
 ## Diagnostic donjon et collisions 0.1.69 - V558
 
 - Nouveau serveur de diagnostic a Francfort, accessible avec le launcher habituel.
