@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Diagnostic donjon 0.1.73 - V562
+
+- Session `MMORPG-Diagnostic-Dungeon-V562` sur le projet Sevenroad a Francfort ; mise a jour client obligatoire dans le launcher habituel.
+- Correctifs des changements de groupe et entrees tardives, de l'abandon individuel et du retour apres defaite.
+- Grilles et cases de sorts isolees, marqueur de tour restaure, noms fantomes et nettoyage de sortie corriges dans les sources.
+- Dialogue du chat harmonise ; marqueurs de quete au style de Fernand et masques par les murs.
+- Diagnostics donjon, collisions et performances conserves. Tests locaux passes ; piliers et saccades a confirmer en multijoueur.
+- Installation complete en exactement deux ZIP verifies, patch depuis v0.1.72 et launcher 1.3.6. Qualite des textures, comptes et personnages conserves.
+
 ## Diagnostic donjon 0.1.72 - V561
 
 - Serveur temporaire `MMORPG-Diagnostic-Dungeon-V561` sur Sevenroad a Francfort ; mise a jour client obligatoire via le launcher habituel.
