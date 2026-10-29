@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Diagnostic donjon 0.1.72 - V561
+
+- Serveur temporaire `MMORPG-Diagnostic-Dungeon-V561` sur Sevenroad a Francfort ; mise a jour client obligatoire via le launcher habituel.
+- Traces comparatives donjon / monde ouvert : changements de groupe, arrivees tardives, monstres, grilles, cases de sorts et marqueurs au sol.
+- Horloge corrigee apres les chargements de scenes ; logos HDV et banque sur la mini-carte ; membres du groupe sur la grande carte, y compris a distance.
+- Panneaux HDV et herbe autour de l'entree d'Urantia. Comptes et personnages conserves.
+- Version de diagnostic : les bugs du donjon restent a reproduire puis analyser en multijoueur. Ne pas presenter ces traces comme des corrections deja validees.
+- Installation complete en exactement deux ZIP verifies ; patch depuis v0.1.71 et launcher 1.3.6 conserves, sans reduction de qualite des textures.
+
 ## Carte du monde et potions 0.1.71 - V560
 
 - Session `MMORPG-DemoSession-V560` sur le serveur Sevenroad a Francfort ; client a jour requis.
