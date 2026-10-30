@@ -1,5 +1,16 @@
 # SEVEN ROAD - Releases
 
+## Diagnostic donjon et sprint 0.1.74 - V563
+
+- Session `MMORPG-Diagnostic-Dungeon-V563` sur le projet Sevenroad a Francfort ; mise a jour client obligatoire via le launcher habituel.
+- Reentree dans l'instance du groupe, visibilite apres le donjon, synchronisation d'inventaire et nettoyage des cases apres abandon corriges.
+- Sprint Maj + Z avec endurance, jauge blanche, animation calibree et explosion de depart ; double Z conserve la course normale.
+- Reglages des capes et de la potion avec la coiffe du soigneur, contours du casier, optimisations de la prison et des montures lointaines.
+- Placement verrouille quand pret ; deuxieme clic pour retirer le pret. Retour a l'entree des Orcs protege a la connexion.
+- Ecran de maintenance avant les menus et achats ; launcher 1.3.7 relie au statut dynamique du nouveau projet Sevenroad.
+- Deux ZIP verifies, patch depuis 0.1.73 et SHA-256. Comptes, personnages et qualite des textures conserves.
+- Diagnostics conserves ; tests locaux automatises, validation multijoueur encore necessaire.
+
 ## Diagnostic donjon 0.1.73 - V562
 
 - Session `MMORPG-Diagnostic-Dungeon-V562` sur le projet Sevenroad a Francfort ; mise a jour client obligatoire dans le launcher habituel.
