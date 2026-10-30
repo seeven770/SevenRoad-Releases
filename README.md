@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Correctifs et diagnostic 0.1.76 - V564
+
+- Nouveau serveur en Irlande, session `MMORPG-Diagnostic-Dungeon-V564`, statut du launcher rebranche ; mise a jour obligatoire.
+- Jambes conservees avec les bottes apres le donjon ; casque et bottes du Chevalier noir retablis.
+- Sprint a la souris avec Maj, transition de fin de course, explosion sonore et bruits de pas.
+- Pseudos et ornements a hauteur commune ; suppression du flash de maintenance lors du changement de personnage quand le serveur est ouvert.
+- Diagnostics conserves, tests locaux automatises ; validation multijoueur encore necessaire.
+- Deux archives completes verifiees, patch depuis 0.1.75 et launcher 1.3.7. Comptes, personnages et textures conserves. Limite de 20 joueurs inchangee.
+
 ## Reconnexion 0.1.75 - V563
 
 - Serveur V563 rallume ; nouvelle connexion GameLift et session Fusion `MMORPG-Diagnostic-Dungeon-V563`.
