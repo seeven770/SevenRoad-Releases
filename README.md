@@ -1,5 +1,12 @@
 # SEVEN ROAD - Releases
 
+## Reconnexion 0.1.75 - V563
+
+- Serveur V563 rallume ; nouvelle connexion GameLift et session Fusion `MMORPG-Diagnostic-Dungeon-V563`.
+- Petit patch depuis 0.1.74 : seul `combat-diagnostic.json` change. Executables, textures, comptes et personnages conserves.
+- Pas de recompilation du jeu ; 0.1.75 est la version du contenu distribue. Deux ZIP complets et launcher 1.3.7 conserves.
+- Relancer le launcher habituel et appliquer la mise a jour pour rejoindre le serveur.
+
 ## Diagnostic donjon et sprint 0.1.74 - V563
 
 - Session `MMORPG-Diagnostic-Dungeon-V563` sur le projet Sevenroad a Francfort ; mise a jour client obligatoire via le launcher habituel.
