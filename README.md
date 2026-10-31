@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## Quetes et archimonstres 0.1.77 - V565
+
+- Session `MMORPG-Diagnostic-Dungeon-V565` en Irlande ; mise a jour client obligatoire via le launcher habituel.
+- Six chapitres, trente quetes principales et nouvelle quete secondaire La Traque des Legendes apres le chapitre VI.
+- Cinq archimonstres dans leurs regions, groupes variables de six monstres maximum et reapparition ailleurs dans la region cinq minutes apres la victoire.
+- Titre Chasseur de Legendes obtenu chez le Chevalier, affiche sous le pseudo avec ou sans ornement.
+- Bateau vers les Shamans debloque individuellement par la quete 25, avec controle serveur et retour conserve.
+- Deux archives completes, patch depuis 0.1.76 et launcher 1.3.7 ; comptes, personnages et qualite des textures conserves.
+- Diagnostic du donjon conserve. Tests automatises locaux ; validation multijoueur encore necessaire. Limite de 20 joueurs inchangee.
+
 ## Correctifs et diagnostic 0.1.76 - V564
 
 - Nouveau serveur en Irlande, session `MMORPG-Diagnostic-Dungeon-V564`, statut du launcher rebranche ; mise a jour obligatoire.
