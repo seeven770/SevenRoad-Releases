@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## Correctifs de combat et de quetes 0.1.78 - V566
+
+- Session `MMORPG-Diagnostic-Dungeon-V566` en Irlande ; mise a jour client obligatoire via le launcher habituel.
+- Coeur de pierre contourne les obstacles et cherche une case avec ligne de vue ; Bonobo peut soigner un allie de son combat ou lui-meme de 55 a 60 PV pour 3 PA, sans traverser les murs.
+- Impact de Ruee corrompue corrige ; portraits et resistances des archimonstres ajustes ; salle du boss avec Illfang et les cinq archimonstres.
+- Indices physiques de quete, descriptions plus claires, bouton Continuer corrige et reperes des lieux/PNJ sur les deux cartes, avec guidage vers les passages existants entre regions.
+- Restauration des equipements avant ouverture de l'inventaire, cape Sanglier moins etiree et message de niveau insuffisant au premier plan. Les objets deja sauvegardes comme non equipes doivent etre reequipes une fois.
+- Deux ZIP complets, patch depuis 0.1.77 et launcher 1.3.7 ; comptes, personnages et qualite des textures conserves.
+- Diagnostics conserves, limite de 20 joueurs inchangee. Tests automatises locaux ; validation multijoueur encore necessaire.
+
 ## Quetes et archimonstres 0.1.77 - V565
 
 - Session `MMORPG-Diagnostic-Dungeon-V565` en Irlande ; mise a jour client obligatoire via le launcher habituel.
