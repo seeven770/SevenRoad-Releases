@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Combat et esquive 0.1.79 - V567
+
+- Session `MMORPG-Diagnostic-Dungeon-V567` en Irlande ; mise a jour obligatoire via le launcher habituel.
+- Les monstres utilisent leurs PM restants apres leurs attaques, en respectant les obstacles et leur combat.
+- Squelette archer : effets et sons de Fleche Bouscule, avec son animation d'arc et ses caracteristiques conservees.
+- Allocation d'esquive sans plafond de 10 ; cout en points et limite des resistances elementaires conserves.
+- Deux ZIP complets, patch depuis 0.1.78 et launcher 1.3.7 ; comptes, personnages et qualite des textures conserves.
+- Diagnostics conserves et limite de 20 joueurs inchangee. Tests automatises locaux ; validation multijoueur encore necessaire.
+
 ## Correctifs de combat et de quetes 0.1.78 - V566
 
 - Session `MMORPG-Diagnostic-Dungeon-V566` en Irlande ; mise a jour client obligatoire via le launcher habituel.
