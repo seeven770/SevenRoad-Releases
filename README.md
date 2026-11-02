@@ -1,5 +1,13 @@
 # SEVEN ROAD - Releases
 
+## Reconnexion 0.1.82 - V568
+
+- Serveur V568 rallume en Irlande ; nouvelle adresse et nouvelle session GameLift, nom Fusion conserve.
+- Petit patch depuis 0.1.81 : seul combat-diagnostic.json change. Executables, textures, comptes et personnages inchanges ; 0.1.82 est la version du contenu distribue.
+- Deux ZIP complets et launcher 1.3.7 conserves. Relancer le launcher habituel et appliquer la mise a jour.
+- Achats toujours indisponibles pendant la beta ; Sunraku conservee dans le vestiaire des comptes qui la possedent.
+- Une instance et 20 joueurs maximum ; consommation AWS reprise a la demande.
+
 ## Boutique beta et maintenance 0.1.81 - V568
 
 - Achats premium indisponibles pendant la beta, avec blocage serveur Firebase pour les anciens clients aussi.
