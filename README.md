@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## Donjon, economie et vestiaire 0.1.80 - V568
+
+- Session `MMORPG-Diagnostic-Dungeon-V568` en Irlande ; mise a jour obligatoire via le launcher habituel.
+- Chapitre VII : Le premier donjon, cinq nouvelles quetes et suivi indiquant le chapitre. Acces libre au donjon et sortie de LostCave conserves.
+- Or PvE controle par le serveur, 30 or par salle classique et 150 or au total pour le boss ; marchand de ressources avec quantite libre, total et onglet petites potions.
+- Cases hors des murs retirees de la carte de combat des Orcs, pour le placement et les deplacements.
+- Vestiaire plus reactif : double-clic pour equiper ou retirer, contour immediat et apercus reutilises.
+- Deux ZIP complets, patch depuis 0.1.79 et launcher 1.3.7 ; comptes, personnages et qualite des textures conserves.
+- Diagnostics conserves et limite de 20 joueurs inchangee. Tests automatises et installation locale ; parcours multijoueurs a confirmer en jeu.
+
 ## Combat et esquive 0.1.79 - V567
 
 - Session `MMORPG-Diagnostic-Dungeon-V567` en Irlande ; mise a jour obligatoire via le launcher habituel.
