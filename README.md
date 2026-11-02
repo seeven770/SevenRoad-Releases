@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Boutique beta et maintenance 0.1.81 - V568
+
+- Achats premium indisponibles pendant la beta, avec blocage serveur Firebase pour les anciens clients aussi.
+- Sunraku retiree du catalogue de vente ; possession et equipement conserves dans le vestiaire.
+- Illustration de maintenance et suppression du fond brun au demarrage ; confirmation de vente du marchand avec attente et messages explicites.
+- Deux ZIP complets, patch depuis 0.1.80 et launcher 1.3.7 ; comptes, personnages et qualite des textures conserves.
+- Session Fusion V568 inchangee. AWS reste arrete : cette mise a jour ne redemarre pas le serveur.
+- Tests automatises et installation locale complete / par patch ; validation multijoueur de cette version encore necessaire.
+
 ## Donjon, economie et vestiaire 0.1.80 - V568
 
 - Session `MMORPG-Diagnostic-Dungeon-V568` en Irlande ; mise a jour obligatoire via le launcher habituel.
