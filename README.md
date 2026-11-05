@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Test jouable mixte 0.1.83
+
+- Client humain normal via le launcher habituel, sans pilote automatique de bots.
+- Serveur temporaire de diagnostic et ajout de bots uniquement aux signaux du joueur.
+- Configuration Fusion alignee et fin de tour protegee avant initialisation des visuels.
+- Deux ZIP complets, patch depuis 0.1.82 et launcher 1.3.7 ; qualite des textures conservee.
+- Achats toujours indisponibles pendant la beta. Recompenses backend non validees sur ce serveur de test.
+- Sauvegardes normales du client conservees : utiliser de preference des personnages de test.
+- Connexion temporaire uniquement jusqu'a l'expiration indiquee dans la configuration ; validation humaine multijoueur encore necessaire.
 ## Reconnexion 0.1.82 - V568
 
 - Serveur V568 rallume en Irlande ; nouvelle adresse et nouvelle session GameLift, nom Fusion conserve.
