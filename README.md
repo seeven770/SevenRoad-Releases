@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Test multijoueur 0.1.84
+
+- Connexion au nouveau serveur Sevenroad avec correction de la visibilite des monstres en combat.
+- Apparence initiale des bots alignee sur les personnages actuels.
+- Patch de connexion de 16 Ko depuis 0.1.83 ; binaires et textures inchanges.
+- Installation complete en deux ZIP et launcher habituel 1.3.7 conserves.
+- Bots ajoutes uniquement sur demande ; aucun arret minute du serveur pour ce test.
+- Serveur de diagnostic : recompenses backend non validees. Utiliser de preference des personnages de test.
+
 ## Test jouable mixte 0.1.83
 
 - Client humain normal via le launcher habituel, sans pilote automatique de bots.
