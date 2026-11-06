@@ -1,5 +1,18 @@
 # SEVEN ROAD - Releases
 
+## Test multijoueur 0.1.85
+
+- Connexion au serveur Sevenroad en Irlande : 2 vCPU et 16 Gio, nouvelle session Fusion.
+- Correction des animations et de la visibilite des monstres appartenant a un autre combat.
+- Stabilisation visuelle des tres petits deplacements du personnage a l'arret.
+- Torgnole : vol de vie de 20 % des degats effectivement infliges.
+- Client jouable et simulateurs recompiles avec le meme contrat reseau Fusion Release.
+- Installation complete en deux ZIP, patch depuis 0.1.84 et launcher habituel 1.3.7 conserves.
+- Achats toujours indisponibles pendant la beta.
+- Bots ajoutes uniquement sur demande, dans la limite de 99 joueurs humains et simules au total.
+- Serveur de diagnostic : les recompenses backend ne sont pas validees. Utiliser de preference des personnages de test.
+- Arret du serveur au signal de l'organisateur ; aucune validation de capacite pour 99 joueurs sur 2 vCPU n'est encore acquise.
+
 ## Test multijoueur 0.1.84
 
 - Connexion au nouveau serveur Sevenroad avec correction de la visibilite des monstres en combat.
