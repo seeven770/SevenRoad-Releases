@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## Beta 0.1.87
+
+- Capacite de 99 joueurs dans le meme monde partage ; session Fusion beta dediee.
+- Personnages non administrateurs supprimes pour le lancement beta ; comptes de connexion conserves.
+- Personnages des quatre comptes administrateurs conserves, commandes privees verifiees par le serveur.
+- Nettoyage des anciens caches de personnages apres la remise a zero, sans effacer les nouveaux personnages a la reconnexion.
+- Mise a jour par le launcher habituel, installation complete en deux ZIP et patch depuis 0.1.86.
+- Configuration 2 vCPU / 16 Gio conservee, sans seconde instance en parallele ni nouveau test de charge.
+
 ## Beta 0.1.86
 
 - Nouveau serveur beta Sevenroad en Irlande, session `MMORPG-DemoSession-Beta-20261107`.
