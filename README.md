@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## Beta 0.1.86
+
+- Nouveau serveur beta Sevenroad en Irlande, session `MMORPG-DemoSession-Beta-20261107`.
+- Client normal sans bots ni configuration temporaire du test de charge ; achats premium indisponibles.
+- Vente au marchand : synchronisations reduites, sauvegardes et protections contre les doublons conservees.
+- Musique discrete a Urantia et option pour couper les explosions sonores du sprint.
+- Optimisation des animations eloignees, des interfaces et des lumieres ; herbe dense conservee.
+- Installation complete en deux ZIP, patch depuis 0.1.85 et launcher 1.3.7.
+- Validation multijoueur de cette version encore necessaire ; aucun nouveau test de charge lance.
+
 ## Test multijoueur 0.1.85
 
 - Connexion au serveur Sevenroad en Irlande : 2 vCPU et 16 Gio, nouvelle session Fusion.
