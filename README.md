@@ -1,5 +1,9 @@
 # SEVEN ROAD - Releases
 
+## v0.1.88
+
+NOUVEAU
+
 ## Beta 0.1.87
 
 - Capacite de 99 joueurs dans le meme monde partage ; session Fusion beta dediee.
