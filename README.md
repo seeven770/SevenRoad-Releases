@@ -1,5 +1,13 @@
 # SEVEN ROAD - Releases
 
+## v0.1.89
+
+- De nouveaux slimes dans la prairie pres d'Urantia.
+- Fluidite amelioree aux abords d'Urantia et dans ses rues.
+- Optimisation du fonctionnement du serveur.
+- Correction du retour au monde ouvert apres un combat.
+- Correction d'erreurs d'affichage des tenues.
+
 ## v0.1.88
 
 NOUVEAU
