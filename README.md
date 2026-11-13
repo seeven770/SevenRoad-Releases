@@ -1,5 +1,12 @@
 # SEVEN ROAD - Releases
 
+## v0.1.91
+
+- Correction des ralentissements face a Urantia apres un retour de combat.
+- Groupes ordinaires : 70 % de groupes de 1 a 3 monstres et 30 % de groupes de 4 a 6.
+- Regles des rats, rencontres fixes, donjons, boss et archimonstres preservees.
+- Aucun reset de compte ou personnage.
+
 ## v0.1.90
 
 - Parametres accessibles depuis les menus et nouvelle presentation des classes.
