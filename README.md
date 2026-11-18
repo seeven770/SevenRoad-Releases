@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## v0.1.92
+
+- Tenue bêta-testeur, code cadeau SEVENROAD-BETA dans la boutique et vestiaire.
+- Trois nouvelles panoplies niveau 1, apparences en jeu et nouveaux butins sur les rats toxiques et slimes.
+- Duels JcJ et arène classée 1v1, 2v2 et 3v3 ; classement sauvegardé.
+- Passifs des quatre classes, évolutions des sorts et rééquilibrage du soigneur.
+- Nouveaux effets de sorts, animations et signalement de cases aux alliés.
+- Optimisations du serveur et des interfaces.
+- Aucun reset de compte ou personnage.
+
 ## v0.1.91
 
 - Correction des ralentissements face a Urantia apres un retour de combat.
