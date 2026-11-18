@@ -1,5 +1,12 @@
 # SEVEN ROAD - Releases
 
+## v0.1.93
+
+- Ajout des 36 icônes de passifs dans le grimoire des quatre classes.
+- Correction du matériau du slime.
+- Conservation des objets des panoplies de départ lors de la régénération du catalogue de butin.
+- Comptes, personnages et progression conservés.
+
 ## v0.1.92
 
 - Tenue bêta-testeur, code cadeau SEVENROAD-BETA dans la boutique et vestiaire.
