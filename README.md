@@ -1,5 +1,15 @@
 # SEVEN ROAD - Releases
 
+## v0.1.94
+
+- Correction du déclenchement des pièges qui se chevauchent, y compris pendant les poussées.
+- Les pièges adverses et les personnages invisibles sont masqués correctement en JcJ.
+- Correction du vol de vie contre les joueurs adverses et des passifs de fin de tour sur le serveur.
+- Correction de la disparition des équipements après les duels et lors de certaines erreurs de connexion temporaires.
+- Correction du suivi des chapeaux pendant les déplacements et de la musique après les duels.
+
+Les comptes, personnages, objets et classements sont conservés.
+
 ## v0.1.93
 
 - Ajout des 36 icônes de passifs dans le grimoire des quatre classes.
