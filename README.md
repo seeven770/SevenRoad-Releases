@@ -1,5 +1,13 @@
 # SEVEN ROAD - Releases
 
+## v0.1.95
+
+- Récolte et progression des métiers de pêcheur, mineur, bûcheron, paysan et herboriste. Les gains affichent l’icône de la ressource obtenue.
+- Ateliers de tailleur, d’alchimiste, de forgeron, de boulanger et de meunerie. Nouvelles recettes, outils de métier et confirmation d’achat.
+- Puits utilisables au village des Golems et dans la zone des Slimes. L’eau descend après la collecte et remonte au remplissage.
+- Les pains et potions de combat affichent leurs effets et leur durée restante. Les bonus PA, PM et PO se renouvellent séparément.
+- Ajustements de combat pour Sang Chaud, Fracassement et les flèches de l’archer. Correctifs de Second Souffle, de l’invisibilité et des déplacements après une poussée.
+
 ## v0.1.94
 
 - Correction du déclenchement des pièges qui se chevauchent, y compris pendant les poussées.
@@ -415,3 +423,4 @@ NOUVEAU
 - Correctifs de retour apres combat et de connexion Fusion.
 
 Les fichiers du jeu complet, du patch, du manifeste et leurs SHA-256 sont disponibles dans les releases.
+
