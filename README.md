@@ -1,5 +1,11 @@
 # SEVEN ROAD - Releases
 
+## v0.1.98
+
+- Les bottes du cavalier suivent désormais les étriers de la Drago blanche, à l’arrêt comme en mouvement.
+
+Relancez le launcher pour installer le correctif.
+
 ## v0.1.97
 
 - L’assise sur la Drago blanche s’ajuste à la taille du cavalier pour rapprocher les bottes des étriers.
