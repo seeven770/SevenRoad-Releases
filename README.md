@@ -1,5 +1,11 @@
 # SEVEN ROAD - Releases
 
+## v0.1.97
+
+- L’assise sur la Drago blanche s’ajuste à la taille du cavalier pour rapprocher les bottes des étriers.
+
+Relancez le launcher pour installer le correctif.
+
 ## v0.1.96
 
 - La Maison des Aventuriers ouvre à Urantia. Inscrivez-vous auprès de Phillipine, acceptez des missions et passez des examens pour progresser dans les rangs. Les visiteurs donnent des conseils et vous pouvez vous asseoir dans la salle.
