@@ -1,5 +1,11 @@
 # SEVEN ROAD - Releases
 
+## v0.1.99
+
+- Le bassin du cavalier reste centré sur la selle de la Drago blanche pendant les animations.
+
+Relancez le launcher pour installer le correctif.
+
 ## v0.1.98
 
 - Les bottes du cavalier suivent désormais les étriers de la Drago blanche, à l’arrêt comme en mouvement.
