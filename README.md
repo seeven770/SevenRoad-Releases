@@ -1,5 +1,14 @@
 # SEVEN ROAD - Releases
 
+## v0.1.96
+
+- La Maison des Aventuriers ouvre à Urantia. Inscrivez-vous auprès de Phillipine, acceptez des missions et passez des examens pour progresser dans les rangs. Les visiteurs donnent des conseils et vous pouvez vous asseoir dans la salle.
+- Le permis de monture s’obtient lors d’une épreuve de dressage. La Drago blanche peut être montée depuis l’inventaire.
+- L’atelier bijoutier propose 34 recettes d’anneaux et d’amulettes.
+- La mise à jour corrige la portée et l’orientation pendant la récolte, le déplacement dans certaines zones, les sorties de combat et certains blocages au chargement.
+
+Relancez le launcher pour mettre le jeu à jour.
+
 ## v0.1.95
 
 - Récolte et progression des métiers de pêcheur, mineur, bûcheron, paysan et herboriste. Les gains affichent l’icône de la ressource obtenue.
